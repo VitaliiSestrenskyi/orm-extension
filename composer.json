@@ -1,0 +1,31 @@
+{
+    "name": "vs/orm",
+    "version":"1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "description": "Extention Bitrix ORM",
+    "keywords": [
+      "Bitrix",
+      "Bitrix24",
+      "ORM",
+      "DataManager",
+      "D7"
+    ],
+    "authors": [
+        {
+            "name": "Vitalii Sestrenskyi",
+            "email": "sestrinskiy@gmail.com"
+        }
+    ],
+    "require": {
+      "php": "^7.0.0"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+      "psr-4": { 
+        "VS\\Orm\\": "src" 
+      }
+    }
+}
