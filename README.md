@@ -1,7 +1,7 @@
-Bitrix ORM Extention
+Bitrix ORM Extension
 =================
 
-Extention for Bitrix ORM DataManager
+Extension for Bitrix ORM DataManager
 -----------------
 
 ##### Package caches the data so if you add new columns in the table do not remember clean the cache

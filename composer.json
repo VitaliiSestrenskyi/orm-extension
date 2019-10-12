@@ -1,9 +1,9 @@
 {
-    "name": "vs/orm",
+    "name": "v_sestrenskyi/orm",
     "version":"1.0.0",
     "type": "library",
     "license": "MIT",
-    "description": "Extention Bitrix ORM",
+    "description": "Extension Bitrix ORM",
     "keywords": [
       "Bitrix",
       "Bitrix24",
